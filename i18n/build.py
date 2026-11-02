@@ -18,6 +18,7 @@ from segments import collect, read_catalog, LETTER  # noqa: E402
 HERE = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(HERE, "..", "docs")
 SITE = "https://carnivore-diet.sabinolab.site/"
+GA_ID = "G-0H8ZC8EW3S"  # Google Analytics 4 measurement ID (see docs/assets/js/analytics.js)
 
 LANGS = {
     # code: (html lang, og locale, folder ("" = site root), switch label, name)
@@ -117,9 +118,39 @@ REDIRECT = """<script>
           if (c === "en" || c === "es" || c === "pt") pick = c;
         }
       }
-      if (pick === "es" || pick === "pt") location.replace(pick + "/" + location.search + location.hash);
+      if (pick === "es" || pick === "pt") {
+        window.__dcRedirect = true; // keeps analytics.js from counting this page
+        location.replace(pick + "/" + location.search + location.hash);
+      }
     })();
   </script>"""
+
+
+CONSENT = {
+    "en": ("Analytics consent",
+           "May we use Google Analytics cookies to see which parts of this guide people read? "
+           "No ads and no advertising profiles. You can change your mind anytime in the footer.",
+           "Decline", "Accept", "Cookie preferences"),
+    "es": ("Consentimiento de análisis",
+           "¿Podemos usar cookies de Google Analytics para saber qué partes de esta guía se leen? "
+           "Sin anuncios ni perfiles publicitarios. Puedes cambiar de opinión cuando quieras en el pie de página.",
+           "Rechazar", "Aceptar", "Preferencias de cookies"),
+    "pt": ("Consentimento de análise",
+           "Podemos usar cookies do Google Analytics para saber quais partes deste guia são lidas? "
+           "Sem anúncios e sem perfis publicitários. Você pode mudar de ideia quando quiser no rodapé.",
+           "Recusar", "Aceitar", "Preferências de cookies"),
+}
+
+
+def consent_block(cur):
+    label, text, no, yes, _ = CONSENT[cur]
+    return (f'<div class="consent" id="consent" role="region" aria-label="{label}" hidden>\n'
+            f'    <p>{text}</p>\n'
+            f'    <div class="consent__actions">'
+            f'<button type="button" class="consent__btn" data-consent="denied">{no}</button>'
+            f'<button type="button" class="consent__btn consent__btn--yes" data-consent="granted">{yes}</button>'
+            f'</div>\n  </div>\n'
+            f'  <script src="assets/js/analytics.js" data-ga="{GA_ID}" defer></script>')
 
 
 def head_block(cur):
@@ -148,6 +179,9 @@ def localise(html, cur):
     html = html.replace("<!--i18n:switch-header-->", switcher(cur, "header"))
     html = html.replace("<!--i18n:switch-menu-->", switcher(cur, "menu"))
     html = html.replace("<!--i18n:switch-footer-->", switcher(cur, "footer"))
+    html = html.replace("<!--i18n:consent-->", consent_block(cur))
+    html = html.replace("<!--i18n:consent-footer-->",
+                        f'<button type="button" class="consent-open" data-consent-open hidden>{CONSENT[cur][4]}</button>')
     if "<!--i18n:" in html:
         raise SystemExit("Unreplaced i18n marker left in output")
     if folder:

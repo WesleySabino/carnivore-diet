@@ -124,6 +124,14 @@
       var r = el.getBoundingClientRect();
       if (r.height > 0 && r.top <= line && el.id !== "inicio") id = el.id;
     });
+    if (window.gtag) {
+      gtag("event", "language_switch", {
+        from_language: LANG,
+        to_language: a.getAttribute("data-lang"),
+        section_id: id || "inicio",
+        transport_type: "beacon"
+      });
+    }
     if (id) {
       e.preventDefault();
       window.location.href = a.getAttribute("href") + "#" + id;

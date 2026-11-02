@@ -62,6 +62,19 @@ in every language.
 Texts created by JavaScript (chart labels, menu button, tooltips) live in the `I18N`
 object at the top of `docs/assets/js/main.js`.
 
+## Analytics
+
+Google Analytics 4 (property "Carnivore Diet", measurement ID `G-0H8ZC8EW3S`, set as
+`GA_ID` in `i18n/build.py`) is loaded by `docs/assets/js/analytics.js`:
+
+- **Consent Mode v2:** analytics cookies stay off until the visitor clicks **Accept** in the
+  banner; ad storage is always off. "Cookie preferences" in the footer reopens the banner.
+- Google's script loads only on `carnivore-diet.sabinolab.site`, so local previews send nothing.
+- Events: `section_view` (`section_id`, `section_number`) when a chapter or the credits
+  stays in the middle of the screen for 2 s; `language_switch` (`from_language`,
+  `to_language`, `section_id`). Every event carries `content_language` (en/es/pt).
+- The root page does not count a visit when it redirects to `/es/` or `/pt/`.
+
 ## Preview locally
 
 ```bash

@@ -34,7 +34,10 @@
           if (c === "en" || c === "es" || c === "pt") pick = c;
         }
       }
-      if (pick === "es" || pick === "pt") location.replace(pick + "/" + location.search + location.hash);
+      if (pick === "es" || pick === "pt") {
+        window.__dcRedirect = true; // keeps analytics.js from counting this page
+        location.replace(pick + "/" + location.search + location.hash);
+      }
     })();
   </script>
   <meta name="twitter:card" content="summary_large_image">
@@ -1276,10 +1279,16 @@
     <div class="wrap site-footer__inner">
       <p>Based on “Dieta Carnívora” by <a href="#creditos">Jade Soller</a>.</p>
       <nav class="lang lang--footer" aria-label="Language"><a href="./" hreflang="en" lang="en" data-lang="en" title="English" aria-current="true">EN</a><a href="es/" hreflang="es" lang="es" data-lang="es" title="Español">ES</a><a href="pt/" hreflang="pt-BR" lang="pt-BR" data-lang="pt" title="Português">PT</a></nav>
+      <button type="button" class="consent-open" data-consent-open hidden>Cookie preferences</button>
       <a class="to-top" href="#inicio">Back to top <span aria-hidden="true">↑</span></a>
     </div>
   </footer>
 
+  <div class="consent" id="consent" role="region" aria-label="Analytics consent" hidden>
+    <p>May we use Google Analytics cookies to see which parts of this guide people read? No ads and no advertising profiles. You can change your mind anytime in the footer.</p>
+    <div class="consent__actions"><button type="button" class="consent__btn" data-consent="denied">Decline</button><button type="button" class="consent__btn consent__btn--yes" data-consent="granted">Accept</button></div>
+  </div>
+  <script src="assets/js/analytics.js" data-ga="G-0H8ZC8EW3S" defer></script>
   <script src="assets/vendor/gsap.min.js" defer></script>
   <script src="assets/vendor/ScrollTrigger.min.js" defer></script>
   <script src="assets/vendor/SplitText.min.js" defer></script>
