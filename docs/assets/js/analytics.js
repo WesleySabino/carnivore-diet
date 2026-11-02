@@ -49,6 +49,9 @@
       var v = b.getAttribute("data-consent");
       try { localStorage.setItem(KEY, v); } catch (err) {}
       gtag("consent", "update", { analytics_storage: v });
+      // The page view sent before the choice had no cookies; count this page now.
+      if (v === "granted" && choice !== "granted") gtag("event", "page_view");
+      choice = v;
       box.hidden = true;
     });
   }

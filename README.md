@@ -73,7 +73,8 @@ Google Analytics 4 (property "Carnivore Diet", measurement ID `G-0H8ZC8EW3S`, se
 - Events: `section_view` (`section_id`, `section_number`) when a chapter or the credits
   stays in the middle of the screen for 2 s; `language_switch` (`from_language`,
   `to_language`, `section_id`). Every event carries `content_language` (en/es/pt).
-- The root page does not count a visit when it redirects to `/es/` or `/pt/`.
+- The root page does not count a visit when it redirects to `/es/` or `/pt/`. On Accept, the
+  current page view is sent again (the one sent before the choice had no cookies).
 
 ## Preview locally
 
