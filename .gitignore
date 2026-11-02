@@ -1,0 +1,6 @@
+# Original presentation: kept locally, not redistributed
+*.pdf
+# Generated reference dump (python3 i18n/build.py --dump)
+i18n/source.es.txt
+__pycache__/
+.DS_Store

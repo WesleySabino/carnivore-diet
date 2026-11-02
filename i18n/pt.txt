@@ -1,0 +1,1054 @@
+@@ 0b4319c8
+Dieta Carnívora — Guia visual baseado na apresentação de Jade Soller
+@@ f74ff1fd
+O que é a dieta carnívora, por que as pessoas estão fazendo, o que mostram a evolução e os povos tradicionais, e as respostas às dúvidas mais comuns. Baseado na apresentação da nutricionista Jade Soller.
+@@ 1692e2a1
+=
+@@ f3d8e005
+Guia visual sobre a dieta carnívora, baseado na apresentação da nutricionista Jade Soller.
+@@ 61a5d1fc
+Pular para o conteúdo
+@@ 7846e1e1
+=
+@@ 04aee20f
+Dieta Carnívora, voltar ao início
+@@ 322ee885
+<span class="site-header__num">00</span><span class="site-header__name">Início</span>
+@@ f1b995ca
+<span class="menu-btn__label">Índice</span> <span class="menu-btn__icon" aria-hidden="true"><i></i><i></i></span>
+@@ 402649b6
+Índice de capítulos
+@@ bbd6aff2
+Índice
+@@ 09cf096e
+<a href="#que-es"><span class="menu__n">01</span><span class="menu__t">O que é a dieta carnívora?</span></a>
+@@ eb6a9371
+<a href="#por-que"><span class="menu__n">02</span><span class="menu__t">Por que as pessoas estão fazendo?</span></a>
+@@ 8d2ed15f
+<a href="#por-que-carne"><span class="menu__n">03</span><span class="menu__t">E por que carne?</span></a>
+@@ 2e463886
+<a href="#que-cambio"><span class="menu__n">04</span><span class="menu__t">O que mudou na nossa alimentação?</span></a>
+@@ d3a92516
+<a href="#villana"><span class="menu__n">05</span><span class="menu__t">Por que a carne é a vilã?</span></a>
+@@ 0c2ff46c
+<a href="#funciona"><span class="menu__n">06</span><span class="menu__t">Comer só carne funciona?</span></a>
+@@ e1b9577c
+<a href="#salud"><span class="menu__n">07</span><span class="menu__t">Como era a saúde deles?</span></a>
+@@ 1e196517
+<a href="#nutrientes"><span class="menu__n">08</span><span class="menu__t">O melhor multivitamínico</span></a>
+@@ 363b9a1a
+<a href="#dudas"><span class="menu__n">09</span><span class="menu__t">Principais dúvidas</span></a>
+@@ f1bbe112
+Conteúdo original de <a href="#creditos">Jade Soller</a>
+@@ a404dbe5
+Um guia visual baseado na apresentação de Jade Soller
+@@ ba407d47
+=
+@@ 1aa222bd
+=
+@@ 3528ec0e
+<span>Role para começar</span><i aria-hidden="true"></i>
+@@ eef6786a
+<span>Sem açúcar</span><b>✕</b><span>Sem óleos vegetais</span><b>✕</b><span>Sem vegetais nem frutas</span><b>✕</b><span>Sem carboidratos</span><b>✕</b>
+@@ d8007088
+<span>Alimentos de origem animal</span><b>●</b><span>Carne</span><b>●</b><span>Peixes</span><b>●</b><span>Ovos</span><b>●</b><span>Frutos do mar</span><b>●</b><span>Vísceras</span><b>●</b>
+@@ 9a01bb4e
+O que é?
+@@ c46e8b2e
+Capítulo 01
+@@ 7096ffc7
+O que é a dieta carnívora?
+@@ bea3317f
+Estratégia alimentar baseada no consumo de <span class="statement__hl">alimentos de origem animal.</span>
+@@ eec82bc2
+O que sai da pirâmide alimentar tradicional
+@@ a8ebae25
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>Sem açúcar nem óleos vegetais</span>
+@@ c2a7a8db
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>Sem vegetais nem frutas</span>
+@@ a78b9539
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>Sem carboidratos</span>
+@@ ae0b2ea1
+<span class="pyramid-steps__x" aria-hidden="true">✓</span><span>Só alimentos de origem animal</span>
+@@ 743f8555
+Pirâmide alimentar tradicional: doces e óleos no topo, laticínios e proteínas, frutas e verduras, e cereais na base
+@@ ff3bbb97
+Pirâmide da dieta carnívora: laticínios e ovos no topo, peixes, carnes e aves no meio, e animais na base
+@@ 5803eb88
+Exemplos de pratos
+@@ b9f1cfb5
+Carnívora na prática
+@@ 61360641
+Ostras frescas no gelo com limão
+@@ 4ba851d8
+Ostras
+@@ 90174135
+Bife alto grelhado, fatiado
+@@ 98a2c46b
+Bife grelhado
+@@ d299f458
+Travessa de camarões cozidos
+@@ a8785016
+Camarões
+@@ d553002e
+Prato com ovos fritos, bacon, bife e queijo na chapa
+@@ 068783ad
+Ovos, bacon, bife e queijo na chapa
+@@ 10d24850
+Tábua de madeira com dois bifes, bacon e um ovo frito
+@@ 6e8305d9
+Bifes, bacon e ovo
+@@ 477ed134
+Por quê?
+@@ b6dfeaba
+Por que as pessoas estão fazendo?
+@@ d00e04e2
+Benefícios da carnívora
+@@ f8c5e811
+Riqueza nutricional
+@@ e91180e2
+Não há nutrientes exclusivos das plantas que não possamos obter dos animais.
+@@ 04bb39a9
+Alta disponibilidade de nutrientes
+@@ 685de722
+A carne é muito biodisponível: o corpo a decompõe e absorve seus nutrientes com facilidade.
+@@ 7827c53d
+Elimina os antinutrientes
+@@ 33519993
+Os antinutrientes interferem na absorção de nutrientes e minerais benéficos.
+@@ 168c869c
+Densidade nutricional
+@@ bc934541
+Quanto 100 g fornecem?
+@@ 2a2a58cd
+Porcentagem da ingestão diária recomendada coberta por 100&nbsp;g de cada alimento. Repare no <strong>ferro</strong>, no <strong>zinco</strong>, no <strong>cobre</strong> e no <strong>iodo</strong>.
+@@ 3eac6ed5
+Tabela de nutrientes; role para o lado em telas pequenas
+@@ 52a10ae2
+Porcentagem da ingestão diária recomendada em 100 g de espinafre, fígado bovino, carne bovina e ovas de salmão
+@@ a1e9a45b
+Vegetal
+@@ 22b3fa7a
+Produtos animais
+@@ 83d3280c
+Nutriente
+@@ aac55382
+Espinafre
+@@ cccc4eab
+Fígado bovino
+@@ f81b659c
+Carne bovina
+@@ c4587ba3
+Ovas de salmão
+@@ 9789018c
+Vitamina A <small>(retinol)</small>
+@@ 103b80ed
+<em>carotenoides</em>
+@@ ec093ea8
+Vitamina B9 <small>(folato)</small>
+@@ 1186c966
+=
+@@ d4f5d1ac
+=
+@@ 460b2d3b
+=
+@@ 7fc231cf
+=
+@@ be647a2a
+=
+@@ a1c96628
+=
+@@ c6efa372
+=
+@@ 715a2ce3
+Ferro
+@@ 403275a2
+32,8% <small>não heme</small>
+@@ f06c3e96
+63% <small>heme</small>
+@@ 1a8da3e3
+Zinco
+@@ 6c38d296
+Cobre
+@@ 2ddf56b3
+Iodo
+@@ 99eca47e
+=
+@@ 5a87d10e
+=
+@@ 14c1cfa2
+<span><span class="ntable__swatch" aria-hidden="true"></span>A barra mostra a porcentagem coberta, até 100%; se o valor for maior, a barra aparece completa, com uma marca no final.</span> <span><sup>*</sup> A vitamina D também depende da exposição ao sol. Fonte: tabela de Carnivore Aurelius, usada na apresentação.</span>
+@@ 08bdc8c9
+A carnívora é usada como tratamento para:
+@@ c96c365a
+<span class="treat__item">Saúde física e mental</span>
+@@ f09c5edf
+<span class="treat__item">Distúrbios gastrointestinais</span>
+@@ d82de51a
+Síndrome metabólica
+@@ a8fc2b42
+obesidade
+@@ cd86cbbf
+pressão alta
+@@ 5b2c70e9
+diabetes
+@@ 6e0edbfb
+HDL baixo
+@@ 9a6d5f46
+triglicerídeos altos
+@@ e09ca021
+pedras na vesícula
+@@ e1a4f385
+pedras nos rins
+@@ 244eebcd
+gota
+@@ cb601906
+<span class="treat__item">Doenças autoimunes</span>
+@@ 7e071f4a
+<span class="treat__item">Doenças de pele</span>
+@@ 2167eb82
+E os resultados?
+@@ 8b8ee13e
+Charlene Andersen sentada à beira de uma piscina
+@@ 77c6f080
+Charlene Andersen em pé em um jardim
+@@ 972c452c
+Curada de diversas doenças
+@@ 9dc0d00a
+=
+@@ 1479bf51
+Acne cística
+@@ a22df1f7
+Fadiga extrema
+@@ 479fecce
+Eczema
+@@ dc54ebe2
+Depressão
+@@ 0371cba0
+Visão turva
+@@ 0d9d4ca3
+Paralisia ocasional nas mãos e nos pés
+@@ ba159198
+Amenorreia contínua
+@@ 778a089e
+Ganho de peso
+@@ 6066b1e1
+Incapacidade de se concentrar
+@@ a387dbaa
+Enxaqueca
+@@ 400b264a
+Refluxo
+@@ 7f5a23a6
+Compulsão alimentar
+@@ 578dcf19
+Espasmos musculares
+@@ 58ca3b95
+Doença de Lyme
+@@ 73f7eca4
+…e algumas outras.
+@@ 0029591d
+<span class="stat__num" data-count="21">21</span><span class="stat__label">anos de carnívora</span>
+@@ e394b4bc
+<span class="stat__num" data-count="46">46</span><span class="stat__label">anos de idade</span>
+@@ a4f80bff
+Duas fotos de Charlene Andersen de traje de banho
+@@ 66aff1ce
+Curada de doenças autoimunes
+@@ 7bfbffa4
+=
+@@ c16ec0e2
+Artrite reumatoide juvenil aos 7 anos, o que levou à necessidade de uma prótese de quadril e de tornozelo na adolescência.
+@@ 050009dd
+Tomou vários medicamentos e sofria de graves problemas de pele, como eczema, erupções cutâneas, coceira e acne severa, além de depressão e fadiga crônica.
+@@ d9b07863
+Mikhaila Peterson sentada à mesa com um prato de carne
+@@ 70bd0665
+Mais transformações
+@@ 4334d99a
+Antes e depois de pessoas que adotaram a dieta carnívora.
+@@ be82aa05
+Antes: rosto com acne severa
+@@ edeb83ed
+Depois: rosto sem acne
+@@ 711a4db2
+<span>Antes</span><span>Depois</span>
+@@ 5c586cb0
+Mulher antes e depois de perder peso
+@@ 2bd9ecd3
+Homem antes e depois de perder peso
+@@ 2b23ca65
+Homem jovem antes e depois de perder peso
+@@ bcc20ce0
+Fonte das imagens: <a href="https://meatrx.com/library/transformations/" target="_blank" rel="noopener">meatrx.com/library/transformations</a>
+@@ 18c9fccf
+Por que carne?
+@@ e2350159
+E por que carne?
+@@ 30221961
+Desde o <em>Homo habilis</em>, passando pelo <em>Homo erectus</em> e pelo <em>Homo neanderthalensis</em>, até o <em>Homo sapiens</em>
+@@ ae6cd4cb
+<span class="mark" data-reveal="mark">A carne foi o nosso principal alimento</span>
+@@ e91bf5f7
+<span class="mark mark--deep" data-reveal="mark">Por quê?</span>
+@@ 15da81fb
+Comer carne maximiza a energia obtida e minimiza o tempo dedicado à alimentação
+@@ 04a4c3d5
+A <strong>Teoria do Forrageamento Ótimo</strong> ilustra nossa preferência por alimentos que gerem o maior retorno possível em calorias.
+@@ e970bc0b
+O alimento mais denso nutricionalmente e com mais calorias é a carne, completa em vitaminas, minerais, ácidos graxos e aminoácidos essenciais.
+@@ 25a9de2d
+Plantas e animais comestíveis
+@@ 75b013f5
+das plantas <strong>não</strong> são comestíveis
+@@ ff173db2
+e só estão disponíveis por temporadas
+@@ 5ed92e4f
+dos animais são comestíveis
+@@ be78b21a
+e estão disponíveis o ano todo
+@@ c7eea95c
+Desenvolvemos um cérebro maior, equilibrado por um trato gastrointestinal menor e mais simples, que exige alimentos de alta qualidade, baseados nas proteínas e gorduras da carne.
+@@ 069f59d6
+O cérebro cresceu graças ao consumo de carne e gordura animal
+@@ 8eae7ac2
+Volume cerebral aproximado (cm³) ao longo da evolução humana
+@@ 3a5f85c8
+Volume cerebral aproximado por espécie
+@@ f1eb507e
+Espécie
+@@ dd08a30a
+Há (milhões de anos)
+@@ 2c831c78
+Volume cerebral
+@@ 1e9fe9f1
+Símio antropoide
+@@ c9b015a8
+=
+@@ b39c782e
+=
+@@ 790526e2
+=
+@@ 1c506d4e
+=
+@@ ec80f569
+hoje
+@@ 15a62128
+Valores aproximados, lidos do gráfico da apresentação.
+@@ 622d25ff
+Ver como tabela
+@@ c33c8db0
+Comparação das dietas
+@@ 18b514b4
+Comparação entre uma dieta à base de carne e uma à base de plantas
+@@ 117b9f09
+Dieta à base de carne
+@@ aae34b9a
+Dieta à base de plantas
+@@ 553bfc5f
+Fácil para o intestino
+@@ f461b305
+Esforço intestinal
+@@ cdb435fd
+Muito saciante
+@@ 98aca40f
+Sempre com vontade de comer mais
+@@ 1c1f800e
+Nutrientes facilmente disponíveis
+@@ e865a71e
+Menos biodisponível
+@@ c7813d33
+Pouca ou nenhuma toxina
+@@ 830f3799
+Cheia de toxinas vegetais
+@@ 255577a7
+A mesma proteína, quantidades muito diferentes
+@@ 7fb048a7
+Para obter <span class="mark">39 g de proteínas</span>
+@@ 3995e614
+Brócolis
+@@ a6384227
+=
+@@ 5c7543f8
+476 kcal · 39 g de proteínas
+@@ 4ee3284e
+Acém bovino
+@@ 1cb24122
+Peça de acém bovino cru
+@@ 0fdf372d
+419 kcal · 39 g de proteínas
+@@ 9221fee2
+Para obter <span class="mark">2 g de leucina</span>
+@@ 221ff72a
+Aminoácido importante para a manutenção da massa muscular
+@@ a4586f20
+<span class="mark mark--deep">+10 g de oxalato</span>
+@@ 36b21a42
+Bife
+@@ 1defb3a1
+Pequeno pedaço de bife cru
+@@ b2469670
+O que mudou?
+@@ ee7640d9
+O que mudou na nossa alimentação?
+@@ 219ed4d1
+Linha do tempo das mudanças na alimentação humana
+@@ e4b37200
+Em perspectiva
+@@ f6aa4277
+Comemos carne há cerca de <span class="mark">2 milhões de anos</span>.
+@@ 22f8ed4b
+Se todo esse tempo fosse um único dia de 24 horas, a que horas chegaram as mudanças na nossa alimentação?
+@@ d112f264
+Continue rolando <span>→</span>
+@@ 40f13772
+Pintura de uma aldeia neolítica com pessoas colhendo cereais
+@@ 8481d809
+<span class="mark mark--dark">Há 10.000 anos · Revolução agrícola</span>
+@@ 0cb660cd
+<span class="mark">Começamos a cultivar</span>
+@@ dc91a9e0
+<span>No relógio de 24 h:</span> <b>23:52:48</b>
+@@ 01d8eb94
+Ao adotar a agricultura, o homem fica mais baixo e menos saudável. Os humanos pagaram um alto custo biológico pela agricultura.
+@@ d5149399
+Revisão de estudos sobre o impacto da agricultura primitiva na saúde:
+@@ 4ba7630d
+=
+@@ 36530f78
+=
+@@ 99e79c6c
+=
+@@ 65d86331
+Gravura de uma fábrica da Revolução Industrial
+@@ 31ca7eb9
+<span class="mark mark--dark">Há 350 anos · Revolução industrial</span>
+@@ 2fcf8014
+<span class="mark">Alimentos industrializados</span>
+@@ e2aba1db
+<span>No relógio de 24 h:</span> <b>23:59:45</b>
+@@ e4992ace
+Pacotes de biscoitos recheados de chocolate
+@@ 3956da1b
+<span class="mark mark--dark">Há 70 anos</span>
+@@ 232400d3
+<span class="mark">Alimentos com sabores, corantes e conservantes</span>
+@@ cfc2ae5d
+<span>No relógio de 24 h:</span> <b>23:59:57</b>
+@@ 1e665ea0
+Relógio de 24 h
+@@ a22c1d9a
+Onde erramos?
+@@ 2df101a8
+Focando nos grupos alimentares errados.
+@@ 4c34a91f
+Pães, massas e grãos sobre uma mesa
+@@ 1ec0f53a
+<span class="mark" data-reveal="mark">Passamos a basear nossa alimentação em carboidratos</span>
+@@ c438b56e
+<span class="mark mark--dark" data-reveal="mark">como pães, massas e grãos</span>
+@@ d6c83437
+Mas não existe nenhum carboidrato essencial: é um nutriente totalmente opcional
+@@ 818127f1
+Glicose por dia
+@@ 18022404
+O cérebro precisa de 120 gramas de glicose por dia; o fígado consegue produzir 200 gramas por dia
+@@ 500adf25
+<span class="meter-card__num">120 g</span><span>o que o cérebro precisa</span>
+@@ 7d1485b5
+<span class="meter-card__num">200 g</span><span>o que o fígado consegue produzir</span>
+@@ 3c6377b3
+O fígado é capaz de produzir <strong>200 g de glicose por dia</strong>, mais do que os <strong>120 g de que o cérebro precisa</strong>, por meio da gliconeogênese.
+@@ 85a8b011
+Quando passamos a usar a gordura como fonte de energia, produzimos <strong>corpos cetônicos</strong>, o combustível preferido dos neurônios.
+@@ e5516f6a
+Vilã?
+@@ 32d2ecba
+Por que a carne é sempre apresentada como vilã?
+@@ 5e66d4a7
+Estudos epidemiológicos
+@@ d98296e7
+Muitos estudos comparam quem consome mais carne com quem consome pouca ou nenhuma carne. Essas comparações em estudos observacionais estão cheias de <strong>fatores de confusão</strong>, que as análises estatísticas desses trabalhos não resolvem suficientemente.
+@@ eb6d8b3d
+Servem para levantar hipóteses, mas <strong>não estabelecem causa e efeito</strong>; estabelecem uma correlação.
+@@ 65af5054
+Como os estudos observacionais são feitos
+@@ 61061c93
+Quando estudos epidemiológicos ou observacionais implicam a carne vermelha na origem de doenças, eles comparam, dentro de um universo de milhares de pessoas que respondem questionários, os que comem menos carne vermelha com os que comem mais.
+@@ 236b858b
+Será que esses grupos são diferentes em outras coisas, além do tipo de carne que comem?
+@@ 5a617d50
+O viés do usuário saudável
+@@ 0d956d58
+Quem segue à risca os conselhos de saúde, como comer menos carne vermelha, costuma se cuidar também em todo o resto. Por isso, num estudo observacional, a carne acaba levando a culpa por outros hábitos.
+@@ 153b4109
+Casal comendo hambúrgueres e donuts
+@@ 385fb845
+<strong>Quem come mais carne</strong> nesses estudos muitas vezes a come assim: com pão, refrigerante e doces.
+@@ 5187c95c
+Casal cozinhando legumes em casa
+@@ 144a4832
+<strong>Quem come menos carne</strong> costuma cozinhar em casa, fazer exercícios, fumar e beber menos.
+@@ 65274ea2
+Homem comendo uma costela bovina
+@@ e471e743
+Mulher comendo uma costela bovina
+@@ d0c92bd3
+<span class="mark mark--deep" data-reveal="mark">Casal carnívoro saudável</span>
+@@ 9bcc000e
+O problema é a carne ou todo o resto?
+@@ c82b1504
+Hambúrgueres de carne na grelha
+@@ 63fcdd21
+<span class="mark">O problema é a carne…</span>
+@@ 33ff1e9d
+Fast food: hambúrgueres, batata frita, nuggets e refrigerantes
+@@ e2c04ca7
+<span class="mark">…ou todo o resto?</span>
+@@ a612ed09
+Funciona?
+@@ 3f870cbd
+Comer só carne funciona?
+@@ 53a01202
+<span class="mark mark--deep" data-reveal="mark">Sim, e já foi testado</span>
+@@ 1f602dce
+Pintura de caçadores nativos americanos perseguindo bisões a cavalo
+@@ ff6f3dad
+<span class="mark" data-reveal="mark">Por tribos primitivas</span>
+@@ 284b0ef3
+<span class="mark mark--dark" data-reveal="mark">durante séculos</span>
+@@ 8bd28d90
+=
+@@ 477d4a11
+Povos que viveram de carne
+@@ 4d041e81
+Toque em um ponto do mapa para ir até a história dele.
+@@ bcd71769
+=
+@@ 97c82172
+=
+@@ 9d2b6d3c
+Índios da América do Norte e sioux
+@@ 9a5e7e0d
+<span class="pin__dot" data-n="2" aria-hidden="true"></span><span class="pin__label">Índios da América do Norte · Sioux</span>
+@@ 59f0083a
+Masai, samburu e rendille
+@@ f983e120
+<span class="pin__dot" data-n="3" aria-hidden="true"></span><span class="pin__label">Masai · Samburu · Rendille</span>
+@@ 7360858d
+=
+@@ b34d1c66
+=
+@@ 1302d0fa
+Nômades da Mongólia
+@@ aa93286c
+<span class="pin__dot" data-n="5" aria-hidden="true"></span><span class="pin__label">Nômades da Mongólia</span>
+@@ 10d211c6
+=
+@@ 8e48ef23
+<a href="#nativos" tabindex="-1"><span>2</span>Índios da América do Norte · Sioux</a>
+@@ ba2392ef
+<a href="#masai" tabindex="-1"><span>3</span>Masai · Samburu · Rendille</a>
+@@ 41878448
+=
+@@ 4883465b
+<a href="#otras-tribus" tabindex="-1"><span>5</span>Nômades da Mongólia</a>
+@@ c1eb221e
+Fotografia histórica de uma família inuíte com casacos de pele
+@@ 6e87724a
+=
+@@ d2196407
+Alimentação dos inuítes
+@@ 22488031
+Membros da nação indígena esquimó que habitam o Ártico do Canadá, do Alasca e da Groenlândia. Alimentavam-se de carne de focas, renas, aves, morsas, ursos, peixes e baleias.
+@@ f976ac1a
+<strong>É surpreendente ver como eles se saem bem com uma dieta rica em gordura e proteína. A dieta tradicional esquimó é praticamente livre de vegetais, produtos agrícolas ou laticínios, e bastante baixa em carboidratos.</strong>
+@@ 508243ae
+Não desenvolveram escorbuto nem doenças causadas pela deficiência de vitamina C, e demonstraram que a atual teoria nutricional de uma “dieta equilibrada” é um absurdo.
+@@ 5f85382f
+Fotografia histórica de um homem inuíte trabalhando
+@@ 44aee4ab
+<span class="mark mark--deep">Dieta livre de vegetais e rica em carnes</span>
+@@ 777e92b9
+Pintura de um caçador nativo americano a cavalo entre búfalos na pradaria
+@@ 936ada08
+<span class="mark" data-reveal="mark">Índios da América do Norte</span>
+@@ 64304c36
+Conhecidos como algumas das pessoas mais altas do mundo e de bom físico, os índios nativos americanos <strong>caçavam grandes animais como bisões</strong>, veados, búfalos, carneiros selvagens, cabras, antílopes, alces, caribus e ursos.
+@@ df75c4d8
+Pintura de guerreiros nativos americanos a cavalo
+@@ 6c5281c4
+Grupo de guerreiros masai com lanças e roupas vermelhas
+@@ bfdfbf40
+<span class="mark">Masai</span>
+@@ 0fea10ae
+Alimentação dos masai
+@@ af259066
+As tribos masai são grupos seminômades que vivem principalmente na Tanzânia e no Quênia. <strong>Sua vida gira em torno do gado, a base da sua dieta: carne, leite e sangue.</strong>
+@@ 243bae8f
+Na década de 1960, o médico George V. Mann os estudou no Quênia. Comiam apenas carne, sangue e leite, e ele notou que consideravam as frutas e hortaliças comida de vaca.
+@@ d1122343
+Pastor masai com manto vermelho caminhando entre seu gado
+@@ 2c9acf94
+<span class="mark">Consideravam as frutas e hortaliças comida de vaca</span>
+@@ 532fc423
+Existiram outras tribos?
+@@ 5347ce21
+Os <strong>chukchis</strong> do Ártico russo viviam de carne de caribu, animais marinhos e peixes.
+@@ 6052809a
+Os guerreiros <strong>samburu e rendille</strong> da África Oriental sobreviveram com dietas compostas principalmente de leite e carne.
+@@ 2673f3f8
+Os <strong>nômades da Mongólia</strong> comiam carne no inverno, e carne e laticínios no verão.
+@@ b810bdd3
+Os <strong>sioux</strong> de Dakota do Sul desfrutavam de uma dieta de carne de búfalo.
+@@ cfa89c33
+Fotografia histórica de três chefes sioux
+@@ c0e4e0da
+<span class="mark">Os sioux comiam principalmente carne de búfalo e de outros bovinos</span>
+@@ 18c705f6
+E a saúde deles?
+@@ 4c9e8635
+Como era a saúde deles?
+@@ 5471946e
+Dentista e pesquisador
+@@ f9491d49
+Weston Price estudou e documentou a saúde de povos primitivos
+@@ fcab39bb
+Foi dentista e um dos maiores contribuidores para o que sabemos hoje sobre a influência da alimentação na nossa saúde física e mental.
+@@ 54caa504
+Durante anos procurou povos que viviam longe da civilização, mas que viviam com plena saúde.
+@@ d097ccf6
+Estudou mais de 14 culturas ao redor do mundo, passando pela África, Américas, Europa e Pacífico.
+@@ ae0e42b4
+<span class="stat__num">+<span data-count="14">14</span></span><span class="stat__label">culturas estudadas</span>
+@@ 9139ea52
+<span class="stat__num" data-count="4">4</span><span class="stat__label">regiões: África, Américas, Europa e Pacífico</span>
+@@ fe7113a2
+Retrato em preto e branco de Weston A. Price
+@@ f52674fd
+=
+@@ 649ad665
+Considerações de <span class="mark" data-reveal="mark">Weston A. Price</span>
+@@ 706a1b57
+Todas as dietas tradicionais <strong>não continham produtos refinados</strong>, como açúcar, xaropes de frutose, farinha branca, enlatados, laticínios pasteurizados, desnatados ou semidesnatados, óleos vegetais hidrogenados, vitaminas artificiais e aditivos tóxicos.
+@@ dbae176f
+Todas as culturas tradicionais <strong>consumiam proteína e gordura animal</strong>, entre elas peixes e frutos do mar, aves, carne bovina, ovos, leite e derivados, répteis e insetos.
+@@ 3a8b52dd
+Todas consumiam <strong>ossos de animais</strong>, normalmente na forma de caldos, ricos em minerais.
+@@ 0c9992b3
+Todas consumiam <strong>gorduras saudáveis e saturadas</strong> de origem animal.
+@@ fa8166b9
+Todas consumiam produtos animais e sempre <strong>aproveitavam o animal inteiro</strong>, incluindo órgãos e vísceras. Alguns tipos de produtos animais eram consumidos crus.
+@@ 56262594
+Saúde dental antes e depois do contato com a civilização
+@@ 1cfa0453
+Oito retratos de pessoas de povos tradicionais sorrindo com dentições completas e saudáveis
+@@ 59d5dc3a
+<span class="teeth__kicker">Povos primitivos com dietas tradicionais</span> <span class="teeth__verdict">Dentes, arcadas e saúde excelentes</span>
+@@ 6168ca88
+Oito retratos de pessoas com cáries, dentes perdidos e arcadas deformadas
+@@ 0ee9d9e2
+<span class="teeth__kicker">Povos primitivos após o contato com os alimentos da “civilização”</span> <span class="teeth__verdict">Graves problemas de saúde, deformação da arcada, perda de dentes e cáries</span>
+@@ 674bb8a1
+Caçador do Ártico arrastando uma foca sobre o gelo
+@@ 0c5d0823
+=
+@@ 77653644
+<span class="mark mark--dark" data-reveal="mark">Explorador e etnólogo do Ártico americano, de origem islandesa</span>
+@@ 7afb650e
+Explorou o Ártico e, em vez de levar grandes reservas de comida, <strong>comeu o que os inuítes comiam: peixe, morsa e outras carnes.</strong>
+@@ 4e715b13
+Isso foi no início do século XX, quando os especialistas em nutrição recomendavam vegetais crus e um consumo mínimo de carne.
+@@ 5330922b
+Stefansson documentou a dieta inuíte, mas encontrou ceticismo entre quem não acreditava nele.
+@@ a500a893
+1928 · Hospital Bellevue, Nova York
+@@ 687778d5
+Experimento: um ano de carnívora
+@@ 17227e58
+Stefansson não tentava queimar gordura, mas <strong>demonstrar a viabilidade da dieta rica em carne dos inuítes.</strong>
+@@ 34aae72f
+Para provar isso, Stefansson e um amigo explorador seguiram uma dieta exclusivamente de carne em 1928, durante um ano inteiro. Começaram o experimento em um hospital onde os médicos podiam monitorar sua saúde.
+@@ 9e7e5503
+Os médicos que examinaram os dois homens durante o estudo de um ano relataram que nenhum deles apresentou problemas seguindo uma dieta carnívora.
+@@ 5f02454b
+Fotografia histórica de Vilhjalmur Stefansson sentado em uns degraus
+@@ eb5f6318
+Capa do livro Not by Bread Alone, de Vilhjalmur Stefansson
+@@ e09b45f1
+Resultado do experimento
+@@ 762cfdd0
+“Não houve problemas de deficiência; os dois homens se mantiveram perfeitamente saudáveis; seus intestinos continuaram normais; suas fezes eram menores e não tinham cheiro.”
+@@ 76f106e9
+=
+@@ c6bafa7d
+Edward Tolstoi · Russell Sage Institute of Pathology e Hospital Bellevue, Nova York
+@@ 57bf0a58
+=
+@@ 8fc85600
+Considerações de <span class="mark" data-reveal="mark">Vilhjalmur Stefansson</span>
+@@ 87da76be
+Para os esquimós, os poucos vegetais eram consumidos principalmente em épocas de fome.
+@@ 215eca67
+A dieta das pessoas e dos cães é rica em gordura e proteína.
+@@ 6ca9e9cb
+Os carboidratos (glicose) não são necessários para o cérebro, o coração nem nenhum outro órgão.
+@@ 4b3d7e1f
+O corpo pode produzir glicose a partir de gordura e proteína.
+@@ 28cfa1b9
+Saúde observada
+@@ 2abc29a0
+<b>Sem cáries</b><span>Saúde dental perfeita</span>
+@@ d6f4d369
+<b>Sem osteoporose</b><span>Excelente saúde óssea</span>
+@@ 268ae0ec
+<b>Sem câncer</b><span>De nenhum tipo</span>
+@@ d2c77cca
+<b>Sem doenças cardíacas</b>
+@@ 22585e1f
+<b>Sem doenças intestinais</b>
+@@ 75a13a3d
+<b>Sem diabetes tipo 2</b>
+@@ 1f1320cf
+<b>Sem obesidade</b>
+@@ a66376d9
+Nutrientes
+@@ 64d1b116
+Capítulo 08
+@@ 70c30b25
+Os alimentos de origem animal contêm todas as proteínas, gorduras, vitaminas e minerais de que precisamos
+@@ 0471ca08
+Se pudéssemos criar o melhor multivitamínico para um ser humano, <strong>seria um animal.</strong>
+@@ 143b3df4
+Nutriente por nutriente
+@@ 5f931ebc
+Legenda
+@@ ad3c15f6
+<span class="tag tag--solo">Só em animais</span>
+@@ edcec498
+<span class="tag tag--sup">Melhor fonte: animais</span>
+@@ 5d2aacc7
+<span class="tag tag--warn">As plantas interferem</span>
+@@ 7ac7437b
+<span class="tag tag--plant">Melhor fonte: plantas</span>
+@@ b9e0243e
+=
+@@ f9ef12bc
+Melhor fonte: animais
+@@ 1773b721
+De 12 a 24 vezes mais biodisponível em alimentos de origem animal (vitamina A vs. carotenoides).
+@@ db679bbd
+<b>2 kg</b> de cenoura <span>=</span> <b>85 g</b> de fígado
+@@ 4b0b6321
+Vitaminas B1, B2, B3 e B6
+@@ ee11ef68
+Os alimentos de origem animal são fontes superiores.
+@@ f46a631a
+Só em animais
+@@ aa847f43
+É calmante. Não é encontrada em alimentos de origem vegetal.
+@@ 5865dc1a
+Melhor fonte: plantas
+@@ 914f8d51
+Os alimentos de origem vegetal são fontes superiores.
+@@ 3a25ed51
+=
+@@ dd8b2626
+Necessária para a serotonina. Não é encontrada em alimentos de origem vegetal.
+@@ e9691c85
+Mais baixa em alimentos de origem animal, embora alguns (como salmão, bacalhau e ovo cozido) contenham essa vitamina.
+@@ 75b5707f
+Promove a saúde do cérebro. Não é encontrada em alimentos de origem vegetal.
+@@ 06c280d7
+O ferro heme é pelo menos <strong>três vezes mais biodisponível</strong> que o ferro não heme (de origem vegetal). Muitos componentes das plantas interferem na absorção do ferro não heme.
+@@ e5b94fcf
+Cálcio
+@@ 64d407c0
+As plantas interferem
+@@ f74eefba
+Algumas plantas contêm componentes que interferem na absorção do cálcio.
+@@ f47db94c
+Algumas plantas contêm bociogênicos que interferem na utilização do iodo.
+@@ bf51e5bd
+Os alimentos de origem animal são fontes superiores. Algumas plantas contêm componentes que interferem na absorção do zinco.
+@@ 59376ec4
+Creatina
+@@ d4d0f860
+Um composto que só encontramos em alimentos de origem animal, como carne vermelha, frango e peixe.
+@@ de058b19
+Carnitina e colina
+@@ 5f59d818
+Os alimentos de origem animal são fontes superiores de carnitina e colina.
+@@ ecb800e2
+Dúvidas
+@@ 288aa030
+Principais dúvidas da carnívora
+@@ 4364bb79
+Respostas às principais dúvidas
+@@ 536c8881
+Lista de dúvidas
+@@ 19aaa55f
+<a href="#duda-proteinas"><span>01</span>Proteínas vegetais e animais</a>
+@@ 935d907a
+=
+@@ b61ca973
+<a href="#duda-fibra"><span>03</span>Fibra</a>
+@@ 8281d849
+<a href="#duda-colesterol"><span>04</span>Colesterol</a>
+@@ 024362eb
+<a href="#duda-grasa"><span>05</span>Gordura</a>
+@@ 0414fe0c
+<a href="#duda-keys"><span>06</span>Gordura e coração: o caso Keys</a>
+@@ 70fa991b
+<a href="#duda-cancer"><span>07</span>Câncer</a>
+@@ 2a61bd7c
+<a href="#duda-rinones"><span>08</span>Rins</a>
+@@ 3795f155
+<a href="#duda-corazon"><span>09</span>Coração</a>
+@@ 3b44fcda
+<a href="#duda-gota"><span>10</span>Gota</a>
+@@ 6888f38b
+Existe diferença entre as proteínas vegetais e animais?
+@@ 3e5b08db
+A maioria dos alimentos vegetais <strong>carece de pelo menos 1 dos 9 aminoácidos essenciais</strong>.
+@@ a7eba54e
+As proteínas vegetais são mais propensas a <strong>causar alergias e sensibilidade alimentar</strong>.
+@@ a0a83bd6
+Os <strong>principais alérgenos são proteínas vegetais</strong>: glúten, soja, milho, nozes e amendoim.
+@@ c7322355
+As proteínas vegetais são <strong>menos biodisponíveis</strong> que as proteínas animais.
+@@ 7154f801
+E a vitamina C?
+@@ e8248f67
+Há vitamina C na carne, nas ovas de peixe, no fígado, no rim e no pâncreas.
+@@ 607a3fc6
+Você bebe suco de laranja para obter vitamina C? A glicose e a vitamina C são quase idênticas, e todo o açúcar vai bloquear a absorção da vitamina C.
+@@ 5025ad44
+Reduzir a ingestão de carboidratos diminui a necessidade de vitamina C.
+@@ 91a4cc10
+Se você comer um pouco de carne fresca todos os dias e não cozinhá-la demais, terá vitamina C suficiente para prevenir o escorbuto.
+@@ fa98c5f9
+As fibras são realmente necessárias?
+@@ a6caf733
+A fibra não é essencial, já que a fibra é um carboidrato.
+@@ fc12fe45
+A fibra não é um nutriente: não é absorvida e não nutre.
+@@ 0bfa873c
+Não há evidências de que a fibra proteja contra doenças do coração, câncer de cólon, síndrome do intestino irritável, pólipos intestinais, constipação crônica ou hemorroidas.
+@@ 052d881a
+Ao contrário da crença popular, uma alta ingestão de fibra alimentar não é necessária para ter evacuações saudáveis.
+@@ 24211acd
+<b>Conclusão:</b> a constipação idiopática e os sintomas associados podem ser reduzidos de forma eficaz suspendendo ou até mesmo diminuindo a ingestão de fibra alimentar.
+@@ 694cae3e
+=
+@@ 75aa9fa7
+=
+@@ 55879269
+=
+@@ ca83c095
+Efeito de reduzir a fibra da dieta
+@@ 499a3a45
+Porcentagem de pacientes com cada sintoma, de acordo com a quantidade de fibra na dieta
+@@ 43e7d279
+Porcentagem de pacientes com sintomas de acordo com a dieta
+@@ a4843841
+Sintoma
+@@ d48e0fbc
+Dieta inicial
+@@ 9dd5992f
+Rica em fibra
+@@ 1f155e1b
+Reduzida em fibra
+@@ d0e3082a
+Sem fibra
+@@ dc6349a9
+Constipação
+@@ 4b226c8d
+Esforço para evacuar
+@@ 5df0871c
+Inchaço
+@@ e99addd4
+Sangramento anal
+@@ a1d6c5b2
+Dor
+@@ ecf08264
+Fonte: Dr. Paul Mason, a partir de Ho et al. (2012). Valores lidos do gráfico da apresentação.
+@@ 44e2095b
+E o colesterol?
+@@ c8726e92
+Todas as células animais precisam de colesterol para ter estrutura e função adequadas.
+@@ 0a398d68
+É imprescindível para a produção de hormônios e neurotransmissores, e crucial para a produção de vitamina D.
+@@ 514812ef
+Protege contra o declínio cognitivo.
+@@ 884f151a
+O colesterol que comemos tem pouca ou nenhuma influência nos níveis de colesterol do nosso sangue.
+@@ 1b0ef1e2
+Comer gordura não faz mal?
+@@ 0e7ad21b
+Certas vitaminas essenciais, como A, D, E e K, precisam de gordura para ser absorvidas.
+@@ 30535dbf
+É a melhor fonte de energia para o metabolismo humano.
+@@ 1ef063eb
+Regula nosso apetite e nos ajuda a nos sentirmos satisfeitos.
+@@ 3bbcb8c8
+A gordura saturada está associada à longevidade, à melhora da função cognitiva, ao fortalecimento do sistema imune e à produção de hormônios, e aumenta o HDL.
+@@ e627a8e0
+Não há evidência significativa para concluir que a gordura saturada esteja associada a um maior risco de doenças coronarianas ou cardiovasculares.
+@@ 72c77338
+=
+@@ 3f5ebc04
+=
+@@ 0b49b51e
+=
+@@ c3edb28c
+Carne e doenças cardíacas: manipulação de dados
+@@ 63fe7d81
+Ancel Keys sentado, fotografia em preto e branco
+@@ 9a505d62
+<span class="mark">Ancel Keys, fraude em dados de pesquisa</span>
+@@ d2528343
+Manipulou dados para concluir que as gorduras animais estavam causando doenças cardíacas.
+@@ 020d54e7
+Acreditava que o consumo de gordura aumentava o colesterol sanguíneo.
+@@ d13aa219
+Publicou sua pesquisa mostrando 6 países com alta ingestão de gordura animal e seu maior risco associado de morte por doença cardíaca.
+@@ fbce553b
+Excluiu outros 16 países do estudo: aqueles que não sustentavam sua hipótese.
+@@ 02909f55
+22 países: 6 publicados e 16 excluídos
+@@ 830d5bf0
+<span><i class="countries__key countries__key--in"></i><b>6</b> países publicados</span> <span><i class="countries__key countries__key--out"></i><b>16</b> países excluídos</span>
+@@ 64765dda
+Retrato de John Yudkin sorrindo
+@@ f43620f1
+<span class="mark">John Yudkin, pesquisador do açúcar</span>
+@@ dca8444e
+Yudkin tirou o estigma da gordura saturada
+@@ 16dc3e72
+Yudkin defendia que a gordura saturada está muito ligada à nossa evolução: ela é abundante, por exemplo, no leite materno.
+@@ 6300d031
+Para ele, era mais provável que adoecêssemos não pela substância pré-histórica, mas pela inovação recente: <strong>o açúcar.</strong>
+@@ 8c918fab
+Mas a carne não dá câncer?
+@@ e2f35396
+Pessoas obesas têm taxas mais altas de câncer.
+@@ c9831d7b
+Qualquer fator que predisponha à obesidade é um fator de risco de câncer. Isso significa que o consumo excessivo de carboidratos aumenta o risco.
+@@ 09fd94fa
+Não há evidência científica sólida que sustente a crença de que a carne vermelha aumenta o risco de câncer.
+@@ c46bfb53
+Vilhjalmur Stefansson, Weston A. Price e Thomas L. Cleave concordam unanimemente em suas observações:
+@@ 8f014c64
+O câncer era uma patologia inexistente em sociedades com estilo de vida tradicional
+@@ 3ab506bd
+Carne e rins
+@@ 2067123e
+A tese de que a proteína da dieta causa doença renal não é sustentada por evidências.
+@@ f6af1724
+O diabetes, especialmente o tipo 2, é a principal causa de doença renal crônica e de doença renal terminal no mundo, e a hipertensão é a segunda (ambas condições hiperinsulinêmicas).
+@@ 0f4141a0
+Os carboidratos refinados e de alto índice glicêmico podem colocar em risco o rim humano, não a proteína animal.
+@@ 7d8e3ddc
+Mantenha os rins saudáveis controlando o açúcar no sangue e a pressão arterial.
+@@ 1498b751
+Falácia lógica
+@@ fb606676
+Quando os rins estão gravemente afetados, <strong>podem</strong> não conseguir metabolizar uma quantidade maior de proteínas, mas isso não significa que a proteína seja a causa do problema.
+@@ 358af752
+Ninguém faz diálise por ter comido muito bife a cavalo.
+@@ 0a2d34b9
+Os testes de função renal não revelaram evidência de dano renal.
+@@ a95d5dc5
+=
+@@ 57d1eccb
+=
+@@ 42110820
+=
+@@ d97c9b2c
+Uma revisão sistemática de 28 ensaios clínicos randomizados não mostrou nenhuma diferença na taxa de filtração glomerular entre quem seguiu uma dieta hiperproteica (mais de 1,5 g/kg/dia) em comparação com uma normo ou hipoproteica.
+@@ a7b38617
+=
+@@ 5a996455
+=
+@@ 941685dd
+=
+@@ e276aa48
+Carne e coração
+@@ ec135b78
+Comemos carne de animais há dois milhões de anos, mas as doenças cardíacas só se tornaram um grande problema para nós há cerca de 50 anos.
+@@ 1601d101
+Os carboidratos refinados, como açúcar e farinha, e os óleos vegetais são os fatores de risco alimentares mais importantes na doença arterial coronariana.
+@@ 32bd316a
+A adição de quantidades significativas de carboidratos refinados é responsável pela maioria das “doenças da civilização”: diabetes, obesidade e doenças cardíacas.
+@@ 363d67b9
+Apesar de uma longa e contínua dieta exclusivamente de carne e leite, os homens têm níveis baixos de colesterol sérico e nenhuma evidência de doença cardíaca aterosclerótica. Isso favorece a conclusão de que a gordura da dieta não é responsável pela doença coronariana.
+@@ 9d7df216
+=
+@@ 416d9a8b
+G.V. Mann, R.D. Shaffer, R.S. Anderson, H.H. Sandstead e outros
+@@ 1fe016c7
+=
+@@ 40cfadbc
+Carne e gota
+@@ cc885f3c
+Não é a carne, mas a <strong>insulina cronicamente alta</strong> que causa a gota: a insulina alta eleva o ácido úrico, e o ácido úrico alto costuma levar à gota.
+@@ 83b43dae
+O consumo de álcool pode contribuir para a gota, e parece fazer isso de forma dose-dependente.
+@@ 74d066bc
+Cada vez mais evidências indicam que ela também pode estar relacionada ao consumo de grandes quantidades de <strong>frutose</strong>.
+@@ 41e5b34c
+<span class="finale__line"><span class="mark" data-reveal="mark">A nutrição é simples.</span></span> <span class="finale__line"><span class="mark mark--dark" data-reveal="mark">Basta olhar as pinturas rupestres.</span></span>
+@@ f6f46181
+Autora do conteúdo
+@@ a43a7f3b
+=
+@@ 87817d8b
+Nutricionista integrativa
+@@ 1374ed1e
+Este site é uma adaptação visual, traduzida para o português, da sua apresentação <cite>“Dieta Carnívora”</cite>. Os textos, argumentos, dados e imagens vêm desse material: o mérito do conteúdo é da autora.
+@@ 2b8ed891
+=
+@@ 768090dd
+=
+@@ 5d55fe93
+=
+@@ 6f488e5f
+=
+@@ 42d4bb3a
+Referências citadas na apresentação
+@@ 82b035ed
+=
+@@ 439ed412
+=
+@@ 2b87c8ff
+=
+@@ 2216b419
+=
+@@ b7260d84
+=
+@@ 672ceda6
+=
+@@ 6eaa849a
+=
+@@ bcad3a10
+=
+@@ 9d176f76
+Dados e imagens
+@@ 14a27b78
+Tabela de nutrientes: Carnivore Aurelius.
+@@ cafa5b02
+Gráfico de fibra: Dr. Paul Mason, a partir de Ho et al. (2012).
+@@ 133066ac
+Transformações: <a href="https://meatrx.com/library/transformations/" target="_blank" rel="noopener">meatrx.com</a>.
+@@ 3ab310bc
+Retrato de Weston A. Price: Price-Pottenger Nutrition Foundation.
+@@ 64a4fece
+Livros de referência: Weston A. Price, <cite>Nutrition and Physical Degeneration</cite>; Vilhjalmur Stefansson, <cite>Not by Bread Alone</cite>.
+@@ 991645f0
+As demais imagens vêm da apresentação original.
+@@ 30934680
+Conteúdo com fins educativos e informativos, que reproduz as ideias da autora. Não substitui a orientação de um profissional de saúde: antes de fazer mudanças importantes na sua alimentação, consulte um.
+@@ 0270fec6
+Baseado em “Dieta Carnívora”, de <a href="#creditos">Jade Soller</a>.
+@@ 267929cf
+Voltar ao topo <span aria-hidden="true">↑</span>

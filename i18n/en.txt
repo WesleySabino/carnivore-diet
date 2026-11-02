@@ -1,0 +1,1054 @@
+@@ 0b4319c8
+Carnivore Diet — A visual guide based on Jade Soller’s presentation
+@@ f74ff1fd
+What the carnivore diet is, why people are doing it, what evolution and traditional peoples show, and answers to the most common questions. Based on the presentation by nutritionist Jade Soller.
+@@ 1692e2a1
+Carnivore Diet — Jade Soller
+@@ f3d8e005
+A visual guide to the carnivore diet, based on the presentation by nutritionist Jade Soller.
+@@ 61a5d1fc
+Skip to content
+@@ 7846e1e1
+Carnivore Diet
+@@ 04aee20f
+Carnivore Diet, back to the top
+@@ 322ee885
+<span class="site-header__num">00</span><span class="site-header__name">Home</span>
+@@ f1b995ca
+<span class="menu-btn__label">Contents</span> <span class="menu-btn__icon" aria-hidden="true"><i></i><i></i></span>
+@@ 402649b6
+Table of contents
+@@ bbd6aff2
+Contents
+@@ 09cf096e
+<a href="#que-es"><span class="menu__n">01</span><span class="menu__t">What is the carnivore diet?</span></a>
+@@ eb6a9371
+<a href="#por-que"><span class="menu__n">02</span><span class="menu__t">Why are people doing it?</span></a>
+@@ 8d2ed15f
+<a href="#por-que-carne"><span class="menu__n">03</span><span class="menu__t">And why meat?</span></a>
+@@ 2e463886
+<a href="#que-cambio"><span class="menu__n">04</span><span class="menu__t">What changed in our diet?</span></a>
+@@ d3a92516
+<a href="#villana"><span class="menu__n">05</span><span class="menu__t">Why is meat the villain?</span></a>
+@@ 0c2ff46c
+<a href="#funciona"><span class="menu__n">06</span><span class="menu__t">Does eating only meat work?</span></a>
+@@ e1b9577c
+<a href="#salud"><span class="menu__n">07</span><span class="menu__t">What was their health like?</span></a>
+@@ 1e196517
+<a href="#nutrientes"><span class="menu__n">08</span><span class="menu__t">The best multivitamin</span></a>
+@@ 363b9a1a
+<a href="#dudas"><span class="menu__n">09</span><span class="menu__t">Common questions</span></a>
+@@ f1bbe112
+Original content by <a href="#creditos">Jade Soller</a>
+@@ a404dbe5
+A visual guide based on Jade Soller’s presentation
+@@ ba407d47
+<span class="hero__line">Carnivore</span> <span class="hero__line">Diet</span>
+@@ 1aa222bd
+=
+@@ 3528ec0e
+<span>Scroll to begin</span><i aria-hidden="true"></i>
+@@ eef6786a
+<span>No sugar</span><b>✕</b><span>No vegetable oils</span><b>✕</b><span>No vegetables or fruit</span><b>✕</b><span>No carbohydrates</span><b>✕</b>
+@@ d8007088
+<span>Animal foods</span><b>●</b><span>Meat</span><b>●</b><span>Fish</span><b>●</b><span>Eggs</span><b>●</b><span>Seafood</span><b>●</b><span>Organ meats</span><b>●</b>
+@@ 9a01bb4e
+What is it?
+@@ c46e8b2e
+Chapter 01
+@@ 7096ffc7
+What is the carnivore diet?
+@@ bea3317f
+An eating strategy based on <span class="statement__hl">foods of animal origin.</span>
+@@ eec82bc2
+What is removed from the traditional food pyramid
+@@ a8ebae25
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>No sugar or vegetable oils</span>
+@@ c2a7a8db
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>No vegetables or fruit</span>
+@@ a78b9539
+<span class="pyramid-steps__x" aria-hidden="true">✕</span><span>No carbohydrates</span>
+@@ ae0b2ea1
+<span class="pyramid-steps__x" aria-hidden="true">✓</span><span>Only foods of animal origin</span>
+@@ 743f8555
+Traditional food pyramid: sweets and oils at the top, then dairy and protein, fruit and vegetables, and cereals at the base
+@@ ff3bbb97
+Carnivore diet pyramid: dairy and eggs at the top, fish, meat and poultry in the middle, and animals at the base
+@@ 5803eb88
+Example dishes
+@@ b9f1cfb5
+Carnivore in practice
+@@ 61360641
+Fresh oysters on ice with lemon
+@@ 4ba851d8
+Oysters
+@@ 90174135
+Thick grilled steak, sliced
+@@ 98a2c46b
+Grilled steak
+@@ d299f458
+Platter of cooked shrimp
+@@ a8785016
+Shrimp
+@@ d553002e
+Plate of fried eggs, bacon, steak and grilled cheese
+@@ 068783ad
+Eggs, bacon, steak and grilled cheese
+@@ 10d24850
+Wooden board with two steaks, bacon and a fried egg
+@@ 6e8305d9
+Steaks, bacon and egg
+@@ 477ed134
+Why?
+@@ b6dfeaba
+Why are people doing it?
+@@ d00e04e2
+Benefits of the carnivore diet
+@@ f8c5e811
+Nutritional richness
+@@ e91180e2
+There are no nutrients unique to plants that we cannot get from animals.
+@@ 04bb39a9
+High nutrient availability
+@@ 685de722
+Meat is highly bioavailable: the body breaks it down and absorbs its nutrients easily.
+@@ 7827c53d
+Eliminates antinutrients
+@@ 33519993
+Antinutrients interfere with the absorption of beneficial nutrients and minerals.
+@@ 168c869c
+Nutrient density
+@@ bc934541
+What do 100 g provide?
+@@ 2a2a58cd
+Percentage of the recommended daily intake covered by 100&nbsp;g of each food. Look at <strong>iron</strong>, <strong>zinc</strong>, <strong>copper</strong> and <strong>iodine</strong>.
+@@ 3eac6ed5
+Nutrient table; scroll sideways on small screens
+@@ 52a10ae2
+Percentage of the recommended daily intake in 100 g of spinach, beef liver, beef and salmon roe
+@@ a1e9a45b
+Plant
+@@ 22b3fa7a
+Animal products
+@@ 83d3280c
+Nutrient
+@@ aac55382
+Spinach
+@@ cccc4eab
+Beef liver
+@@ f81b659c
+Beef
+@@ c4587ba3
+Salmon roe
+@@ 9789018c
+Vitamin A <small>(retinol)</small>
+@@ 103b80ed
+<em>carotenoids</em>
+@@ ec093ea8
+Vitamin B9 <small>(folate)</small>
+@@ 1186c966
+Vitamin B12
+@@ d4f5d1ac
+Vitamin C
+@@ 460b2d3b
+Vitamin D<sup>*</sup>
+@@ 7fc231cf
+=
+@@ be647a2a
+=
+@@ a1c96628
+Vitamin E
+@@ c6efa372
+Vitamin K2
+@@ 715a2ce3
+Iron
+@@ 403275a2
+32.8% <small>non-heme</small>
+@@ f06c3e96
+63% <small>heme</small>
+@@ 1a8da3e3
+Zinc
+@@ 6c38d296
+Copper
+@@ 2ddf56b3
+Iodine
+@@ 99eca47e
+=
+@@ 5a87d10e
+=
+@@ 14c1cfa2
+<span><span class="ntable__swatch" aria-hidden="true"></span>The bar shows the percentage covered, up to 100%; when the value is higher, the bar is full and has a mark at the end.</span> <span><sup>*</sup> Vitamin D also depends on sun exposure. Source: table by Carnivore Aurelius, used in the presentation.</span>
+@@ 08bdc8c9
+The carnivore diet is used as a treatment for:
+@@ c96c365a
+<span class="treat__item">Physical and mental health</span>
+@@ f09c5edf
+<span class="treat__item">Gastrointestinal disorders</span>
+@@ d82de51a
+Metabolic syndrome
+@@ a8fc2b42
+obesity
+@@ cd86cbbf
+high blood pressure
+@@ 5b2c70e9
+diabetes
+@@ 6e0edbfb
+low HDL
+@@ 9a6d5f46
+high triglycerides
+@@ e09ca021
+gallstones
+@@ e1a4f385
+kidney stones
+@@ 244eebcd
+gout
+@@ cb601906
+<span class="treat__item">Autoimmune diseases</span>
+@@ 7e071f4a
+<span class="treat__item">Skin diseases</span>
+@@ 2167eb82
+And the results?
+@@ 8b8ee13e
+Charlene Andersen sitting by a pool
+@@ 77c6f080
+Charlene Andersen standing in a garden
+@@ 972c452c
+Cured of many illnesses
+@@ 9dc0d00a
+=
+@@ 1479bf51
+Cystic acne
+@@ a22df1f7
+Extreme fatigue
+@@ 479fecce
+Eczema
+@@ dc54ebe2
+Depression
+@@ 0371cba0
+Blurred vision
+@@ 0d9d4ca3
+Occasional paralysis in hands and feet
+@@ ba159198
+Ongoing amenorrhea
+@@ 778a089e
+Weight gain
+@@ 6066b1e1
+Inability to concentrate
+@@ a387dbaa
+Migraine
+@@ 400b264a
+Reflux
+@@ 7f5a23a6
+Binge eating
+@@ 578dcf19
+Muscle spasms
+@@ 58ca3b95
+Lyme disease
+@@ 73f7eca4
+…and a few others.
+@@ 0029591d
+<span class="stat__num" data-count="21">21</span><span class="stat__label">years on carnivore</span>
+@@ e394b4bc
+<span class="stat__num" data-count="46">46</span><span class="stat__label">years old</span>
+@@ a4f80bff
+Two photos of Charlene Andersen in a swimsuit
+@@ 66aff1ce
+Cured of autoimmune diseases
+@@ 7bfbffa4
+=
+@@ c16ec0e2
+Juvenile rheumatoid arthritis at age 7, which led to a hip and an ankle replacement in her teens.
+@@ 050009dd
+She took several medications and suffered from serious skin problems such as eczema, rashes, itching and severe acne, as well as depression and chronic fatigue.
+@@ d9b07863
+Mikhaila Peterson sitting at a table with a plate of meat
+@@ 70bd0665
+More transformations
+@@ 4334d99a
+Before and after photos of people who adopted the carnivore diet.
+@@ be82aa05
+Before: face with severe acne
+@@ edeb83ed
+After: face without acne
+@@ 711a4db2
+<span>Before</span><span>After</span>
+@@ 5c586cb0
+Woman before and after losing weight
+@@ 2bd9ecd3
+Man before and after losing weight
+@@ 2b23ca65
+Young man before and after losing weight
+@@ bcc20ce0
+Image source: <a href="https://meatrx.com/library/transformations/" target="_blank" rel="noopener">meatrx.com/library/transformations</a>
+@@ 18c9fccf
+Why meat?
+@@ e2350159
+And why meat?
+@@ 30221961
+From <em>Homo habilis</em>, through <em>Homo erectus</em> and <em>Homo neanderthalensis</em>, to <em>Homo sapiens</em>
+@@ ae6cd4cb
+<span class="mark" data-reveal="mark">Meat was our main food</span>
+@@ e91bf5f7
+<span class="mark mark--deep" data-reveal="mark">Why?</span>
+@@ 15da81fb
+Eating meat maximizes the energy we get and minimizes the time we spend feeding
+@@ 04a4c3d5
+<strong>Optimal Foraging Theory</strong> describes our preference for the foods that give the greatest possible return in calories.
+@@ e970bc0b
+The most nutrient-dense, calorie-rich food is meat, complete in vitamins, minerals, fatty acids and essential amino acids.
+@@ 25a9de2d
+Edible plants and animals
+@@ 75b013f5
+of plants are <strong>not</strong> edible
+@@ ff173db2
+and are only available in season
+@@ 5ed92e4f
+of animals are edible
+@@ be78b21a
+and are available all year round
+@@ c7eea95c
+We developed a larger brain, balanced by a smaller, simpler gastrointestinal tract, which needs high-quality food based on the protein and fat of meat.
+@@ 069f59d6
+The brain grew thanks to eating meat and animal fat
+@@ 8eae7ac2
+Approximate brain volume (cm³) over human evolution
+@@ 3a5f85c8
+Approximate brain volume by species
+@@ f1eb507e
+Species
+@@ dd08a30a
+Million years ago
+@@ 2c831c78
+Brain volume
+@@ 1e9fe9f1
+Anthropoid ape
+@@ c9b015a8
+=
+@@ b39c782e
+=
+@@ 790526e2
+=
+@@ 1c506d4e
+=
+@@ ec80f569
+today
+@@ 15a62128
+Approximate values, read from the chart in the presentation.
+@@ 622d25ff
+View as table
+@@ c33c8db0
+Comparing the diets
+@@ 18b514b4
+Comparison between a meat-based diet and a plant-based diet
+@@ 117b9f09
+Meat-based diet
+@@ aae34b9a
+Plant-based diet
+@@ 553bfc5f
+Easy on the gut
+@@ f461b305
+Hard work for the gut
+@@ cdb435fd
+Very satiating
+@@ 98aca40f
+Always wanting more food
+@@ 1c1f800e
+Readily available nutrients
+@@ e865a71e
+Less bioavailable
+@@ c7813d33
+Few or no toxins
+@@ 830f3799
+Full of plant toxins
+@@ 255577a7
+The same protein, very different amounts
+@@ 7fb048a7
+To get <span class="mark">39 g of protein</span>
+@@ 3995e614
+Broccoli
+@@ a6384227
+<span data-count="1.4" data-decimals="1">1.4</span> kg
+@@ 5c7543f8
+476 kcal · 39 g of protein
+@@ 4ee3284e
+Beef chuck
+@@ 1cb24122
+Raw piece of beef chuck
+@@ 0fdf372d
+419 kcal · 39 g of protein
+@@ 9221fee2
+To get <span class="mark">2 g of leucine</span>
+@@ 221ff72a
+An amino acid that matters for maintaining muscle mass
+@@ a4586f20
+<span class="mark mark--deep">+10 g of oxalate</span>
+@@ 36b21a42
+Steak
+@@ 1defb3a1
+Small piece of raw steak
+@@ b2469670
+What changed?
+@@ ee7640d9
+What changed in our diet?
+@@ 219ed4d1
+Timeline of the changes in the human diet
+@@ e4b37200
+In perspective
+@@ f6aa4277
+We have been eating meat for about <span class="mark">2 million years</span>.
+@@ 22f8ed4b
+If all that time were a single 24-hour day, at what time did the changes in our diet arrive?
+@@ d112f264
+Keep scrolling <span>→</span>
+@@ 40f13772
+Painting of a Neolithic village with people harvesting cereals
+@@ 8481d809
+<span class="mark mark--dark">10,000 years ago · Agricultural Revolution</span>
+@@ 0cb660cd
+<span class="mark">We started farming</span>
+@@ dc91a9e0
+<span>On the 24-hour clock:</span> <b>23:52:48</b>
+@@ 01d8eb94
+By adopting agriculture, humans became shorter and less healthy. We paid a high biological price for agriculture.
+@@ d5149399
+A review of studies on the health impact of early agriculture:
+@@ 4ba7630d
+=
+@@ 36530f78
+=
+@@ 99e79c6c
+=
+@@ 65d86331
+Engraving of a factory during the Industrial Revolution
+@@ 31ca7eb9
+<span class="mark mark--dark">350 years ago · Industrial Revolution</span>
+@@ 2fcf8014
+<span class="mark">Industrialized foods</span>
+@@ e2aba1db
+<span>On the 24-hour clock:</span> <b>23:59:45</b>
+@@ e4992ace
+Packages of chocolate sandwich cookies
+@@ 3956da1b
+<span class="mark mark--dark">70 years ago</span>
+@@ 232400d3
+<span class="mark">Foods with flavorings, colorings and preservatives</span>
+@@ cfc2ae5d
+<span>On the 24-hour clock:</span> <b>23:59:57</b>
+@@ 1e665ea0
+24-hour clock
+@@ a22c1d9a
+Where did we go wrong?
+@@ 2df101a8
+By focusing on the wrong food groups.
+@@ 4c34a91f
+Bread, pasta and grains on a table
+@@ 1ec0f53a
+<span class="mark" data-reveal="mark">We came to base our diet on carbohydrates</span>
+@@ c438b56e
+<span class="mark mark--dark" data-reveal="mark">such as bread, pasta and grains</span>
+@@ d6c83437
+But there is no such thing as an essential carbohydrate: it is an entirely optional nutrient
+@@ 818127f1
+Glucose per day
+@@ 18022404
+The brain needs 120 grams of glucose a day; the liver can make 200 grams a day
+@@ 500adf25
+<span class="meter-card__num">120 g</span><span>what the brain needs</span>
+@@ 7d1485b5
+<span class="meter-card__num">200 g</span><span>what the liver can make</span>
+@@ 3c6377b3
+Through gluconeogenesis, the liver can make <strong>200 g of glucose a day</strong>, more than the <strong>120 g the brain needs</strong>.
+@@ 85a8b011
+When we switch to fat as our energy source, we produce <strong>ketone bodies</strong>, the preferred fuel of neurons.
+@@ e5516f6a
+Villain?
+@@ 32d2ecba
+Why is meat always cast as the villain?
+@@ 5e66d4a7
+Epidemiological studies
+@@ d98296e7
+Many studies compare people who eat more meat with people who eat little or no meat. These comparisons in observational studies are full of <strong>confounding factors</strong> that the statistical analyses in these papers do not adequately resolve.
+@@ eb6d8b3d
+They are useful for raising hypotheses, but <strong>they do not establish cause and effect</strong>; they establish a correlation.
+@@ 65af5054
+How observational studies are done
+@@ 61061c93
+When epidemiological or observational studies implicate red meat in causing disease, they compare, within a pool of thousands of people answering questionnaires, those who eat less red meat with those who eat more.
+@@ 236b858b
+Could these groups differ in other ways, besides the kind of meat they eat?
+@@ 5a617d50
+The healthy user bias
+@@ 0d956d58
+People who follow health advice to the letter, such as eating less red meat, tend to look after themselves in every other way too. So, in an observational study, meat ends up taking the blame for other habits.
+@@ 153b4109
+Couple eating burgers and doughnuts
+@@ 385fb845
+<strong>People who eat more meat</strong> in these studies often eat it like this: with bread, soda and sweets.
+@@ 5187c95c
+Couple cooking vegetables at home
+@@ 144a4832
+<strong>People who eat less meat</strong> usually cook at home, exercise, and smoke and drink less.
+@@ 65274ea2
+Man eating a beef rib
+@@ e471e743
+Woman eating a beef rib
+@@ d0c92bd3
+<span class="mark mark--deep" data-reveal="mark">A healthy carnivore couple</span>
+@@ 9bcc000e
+Is the problem meat, or everything else?
+@@ c82b1504
+Beef burgers on the grill
+@@ 63fcdd21
+<span class="mark">Is the problem meat…</span>
+@@ 33ff1e9d
+Fast food: burgers, fries, nuggets and soda
+@@ e2c04ca7
+<span class="mark">…or everything else?</span>
+@@ a612ed09
+Does it work?
+@@ 3f870cbd
+Does eating only meat work?
+@@ 53a01202
+<span class="mark mark--deep" data-reveal="mark">Yes, and it has been proven</span>
+@@ 1f602dce
+Painting of Native American hunters chasing bison on horseback
+@@ ff6f3dad
+<span class="mark" data-reveal="mark">By primitive tribes</span>
+@@ 284b0ef3
+<span class="mark mark--dark" data-reveal="mark">for centuries</span>
+@@ 8bd28d90
+=
+@@ 477d4a11
+Peoples who lived on meat
+@@ 4d041e81
+Tap a point on the map to go to their story.
+@@ bcd71769
+=
+@@ 97c82172
+=
+@@ 9d2b6d3c
+North American Indians and Sioux
+@@ 9a5e7e0d
+<span class="pin__dot" data-n="2" aria-hidden="true"></span><span class="pin__label">North American Indians · Sioux</span>
+@@ 59f0083a
+Maasai, Samburu and Rendille
+@@ f983e120
+<span class="pin__dot" data-n="3" aria-hidden="true"></span><span class="pin__label">Maasai · Samburu · Rendille</span>
+@@ 7360858d
+=
+@@ b34d1c66
+=
+@@ 1302d0fa
+Mongolian nomads
+@@ aa93286c
+<span class="pin__dot" data-n="5" aria-hidden="true"></span><span class="pin__label">Mongolian nomads</span>
+@@ 10d211c6
+=
+@@ 8e48ef23
+<a href="#nativos" tabindex="-1"><span>2</span>North American Indians · Sioux</a>
+@@ ba2392ef
+<a href="#masai" tabindex="-1"><span>3</span>Maasai · Samburu · Rendille</a>
+@@ 41878448
+=
+@@ 4883465b
+<a href="#otras-tribus" tabindex="-1"><span>5</span>Mongolian nomads</a>
+@@ c1eb221e
+Historical photograph of an Inuit family in fur coats
+@@ 6e87724a
+=
+@@ d2196407
+The Inuit diet
+@@ 22488031
+Members of the Eskimo Indigenous nation who live in the Arctic of Canada, Alaska and Greenland. They ate the meat of seals, reindeer, birds, walruses, bears, fish and whales.
+@@ f976ac1a
+<strong>It is remarkable how well they do on a diet high in fat and protein. The traditional Eskimo diet is practically free of vegetables, crops or dairy, and quite low in carbohydrates.</strong>
+@@ 508243ae
+They did not develop scurvy or any disease caused by vitamin C deficiency, and they showed that today’s nutritional theory of a “balanced diet” is nonsense.
+@@ 5f85382f
+Historical photograph of an Inuit man at work
+@@ 44aee4ab
+<span class="mark mark--deep">A diet free of vegetables and high in meat</span>
+@@ 777e92b9
+Painting of a Native American hunter on horseback among buffalo on the prairie
+@@ 936ada08
+<span class="mark" data-reveal="mark">North American Indians</span>
+@@ 64304c36
+Known as some of the tallest people in the world, with a strong build, Native American Indians <strong>hunted large animals such as bison</strong>, deer, buffalo, wild sheep, goats, antelope, elk, caribou and bears.
+@@ df75c4d8
+Painting of Native American warriors on horseback
+@@ 6c5281c4
+Group of Maasai warriors with spears and red clothing
+@@ bfdfbf40
+<span class="mark">Maasai</span>
+@@ 0fea10ae
+The Maasai diet
+@@ af259066
+The Maasai tribes are semi-nomadic groups who live mainly in Tanzania and Kenya. <strong>Their life revolves around cattle, the basis of their diet: meat, milk and blood.</strong>
+@@ 243bae8f
+In the 1960s, the physician George V. Mann studied them in Kenya. They ate only meat, blood and milk, and he noted that they regarded fruit and vegetables as food for cows.
+@@ d1122343
+Maasai herder in a red cloak walking among his cattle
+@@ 2c9acf94
+<span class="mark">They regarded fruit and vegetables as food for cows</span>
+@@ 532fc423
+Were there other tribes?
+@@ 5347ce21
+The <strong>Chukchi</strong> of the Russian Arctic lived on caribou meat, sea animals and fish.
+@@ 6052809a
+The <strong>Samburu and Rendille</strong> warriors of East Africa survived on diets made up mainly of milk and meat.
+@@ 2673f3f8
+<strong>Mongolian nomads</strong> ate meat in winter, and meat and dairy in summer.
+@@ b810bdd3
+The <strong>Sioux</strong> of South Dakota enjoyed a diet of buffalo meat.
+@@ cfa89c33
+Historical photograph of three Sioux chiefs
+@@ c0e4e0da
+<span class="mark">The Sioux ate mainly buffalo and other cattle</span>
+@@ 18c705f6
+And their health?
+@@ 4c9e8635
+What was their health like?
+@@ 5471946e
+Dentist and researcher
+@@ f9491d49
+Weston Price studied and documented the health of primitive peoples
+@@ fcab39bb
+He was a dentist and one of the greatest contributors to what we know today about how diet affects our physical and mental health.
+@@ 54caa504
+For years he sought out peoples who lived far from civilization yet enjoyed full health.
+@@ d097ccf6
+He studied more than 14 cultures around the world, across Africa, the Americas, Europe and the Pacific.
+@@ ae0e42b4
+<span class="stat__num">+<span data-count="14">14</span></span><span class="stat__label">cultures studied</span>
+@@ 9139ea52
+<span class="stat__num" data-count="4">4</span><span class="stat__label">regions: Africa, the Americas, Europe and the Pacific</span>
+@@ fe7113a2
+Black-and-white portrait of Weston A. Price
+@@ f52674fd
+=
+@@ 649ad665
+Findings of <span class="mark" data-reveal="mark">Weston A. Price</span>
+@@ 706a1b57
+None of the traditional diets <strong>contained refined products</strong> such as sugar, fructose syrups, white flour, canned food, pasteurized, skimmed or semi-skimmed dairy, hydrogenated vegetable oils, artificial vitamins and toxic additives.
+@@ dbae176f
+All traditional cultures <strong>ate animal protein and fat</strong>, including fish and shellfish, poultry, beef, eggs, milk and dairy, reptiles and insects.
+@@ 3a8b52dd
+All of them ate <strong>animal bones</strong>, usually as mineral-rich broths.
+@@ 0c9992b3
+All of them ate <strong>healthy, saturated fats</strong> of animal origin.
+@@ fa8166b9
+All of them ate animal products and always <strong>used the whole animal</strong>, including organs and offal. Some kinds of animal products were eaten raw.
+@@ 56262594
+Dental health before and after contact with civilization
+@@ 1cfa0453
+Eight portraits of people from traditional peoples smiling with full, healthy teeth
+@@ 59d5dc3a
+<span class="teeth__kicker">Primitive peoples on traditional diets</span> <span class="teeth__verdict">Excellent teeth, dental arches and health</span>
+@@ 6168ca88
+Eight portraits of people with cavities, missing teeth and deformed dental arches
+@@ 0ee9d9e2
+<span class="teeth__kicker">Primitive peoples after contact with the foods of “civilization”</span> <span class="teeth__verdict">Serious health problems, deformed dental arches, tooth loss and cavities</span>
+@@ 674bb8a1
+Arctic hunter dragging a seal across the ice
+@@ 0c5d0823
+=
+@@ 77653644
+<span class="mark mark--dark" data-reveal="mark">Explorer and ethnologist of the American Arctic, of Icelandic descent</span>
+@@ 7afb650e
+He explored the Arctic and, instead of carrying large food supplies, <strong>he ate what the Inuit ate: fish, walrus and other meats.</strong>
+@@ 4e715b13
+This was in the early 20th century, when nutrition experts recommended raw vegetables and as little meat as possible.
+@@ 5330922b
+Stefansson documented the Inuit diet, but met with skepticism from people who did not believe him.
+@@ a500a893
+1928 · Bellevue Hospital, New York
+@@ 687778d5
+Experiment: a year of carnivore
+@@ 17227e58
+Stefansson was not trying to burn fat, but <strong>to prove that the Inuit’s meat-rich diet was viable.</strong>
+@@ 34aae72f
+To prove it, Stefansson and a fellow explorer followed an all-meat diet in 1928 for a whole year. They began the experiment in a hospital, where doctors could monitor their health.
+@@ 9e7e5503
+The doctors who examined the two men during the year-long study reported that neither of them had any problems on a carnivore diet.
+@@ 5f02454b
+Historical photograph of Vilhjalmur Stefansson sitting on some steps
+@@ eb5f6318
+Cover of the book Not by Bread Alone, by Vilhjalmur Stefansson
+@@ e09b45f1
+Result of the experiment
+@@ 762cfdd0
+“There were no deficiency problems; both men stayed perfectly healthy; their bowels stayed normal; their stools were smaller and odorless.”
+@@ 76f106e9
+=
+@@ c6bafa7d
+Edward Tolstoi · Russell Sage Institute of Pathology and Bellevue Hospital, New York
+@@ 57bf0a58
+=
+@@ 8fc85600
+Findings of <span class="mark" data-reveal="mark">Vilhjalmur Stefansson</span>
+@@ 87da76be
+For the Eskimos, the few vegetables they had were eaten mainly in times of famine.
+@@ 215eca67
+The diet of the people, and of their dogs, is high in fat and protein.
+@@ 6ca9e9cb
+Carbohydrates (glucose) are not necessary for the brain, the heart or any other organ.
+@@ 4b3d7e1f
+The body can produce glucose from fat and protein.
+@@ 28cfa1b9
+Observed health
+@@ 2abc29a0
+<b>No cavities</b><span>Perfect dental health</span>
+@@ d6f4d369
+<b>No osteoporosis</b><span>Excellent bone health</span>
+@@ 268ae0ec
+<b>No cancer</b><span>Of any kind</span>
+@@ d2c77cca
+<b>No heart disease</b>
+@@ 22585e1f
+<b>No bowel disease</b>
+@@ 75a13a3d
+<b>No type 2 diabetes</b>
+@@ 1f1320cf
+<b>No obesity</b>
+@@ a66376d9
+Nutrients
+@@ 64d1b116
+Chapter 08
+@@ 70c30b25
+Animal foods contain all the protein, fat, vitamins and minerals we need
+@@ 0471ca08
+If we could create the best multivitamin for a human being, <strong>it would be an animal.</strong>
+@@ 143b3df4
+Nutrient by nutrient
+@@ 5f931ebc
+Key
+@@ ad3c15f6
+<span class="tag tag--solo">Only in animals</span>
+@@ edcec498
+<span class="tag tag--sup">Best source: animals</span>
+@@ 5d2aacc7
+<span class="tag tag--warn">Plants interfere</span>
+@@ 7ac7437b
+<span class="tag tag--plant">Best source: plants</span>
+@@ b9e0243e
+Vitamin A
+@@ f9ef12bc
+Best source: animals
+@@ 1773b721
+12 to 24 times more bioavailable in animal foods (vitamin A vs. carotenoids).
+@@ db679bbd
+<b>2 kg</b> of carrots <span>=</span> <b>85 g</b> of liver
+@@ 4b0b6321
+Vitamins B1, B2, B3 and B6
+@@ ee11ef68
+Animal foods are superior sources.
+@@ f46a631a
+Only in animals
+@@ aa847f43
+It is calming. Not found in plant foods.
+@@ 5865dc1a
+Best source: plants
+@@ 914f8d51
+Plant foods are superior sources.
+@@ 3a25ed51
+Vitamin D3
+@@ dd8b2626
+Needed for serotonin. Not found in plant foods.
+@@ e9691c85
+Lower in animal foods, although some (such as salmon, cod and boiled eggs) contain this vitamin.
+@@ 75b5707f
+Promotes brain health. Not found in plant foods.
+@@ 06c280d7
+Heme iron is at least <strong>three times more bioavailable</strong> than non-heme iron (from plants). Many plant compounds interfere with the absorption of non-heme iron.
+@@ e5b94fcf
+Calcium
+@@ 64d407c0
+Plants interfere
+@@ f74eefba
+Some plants contain compounds that interfere with calcium absorption.
+@@ f47db94c
+Some plants contain goitrogens, which interfere with the use of iodine.
+@@ bf51e5bd
+Animal foods are superior sources. Some plants contain compounds that interfere with zinc absorption.
+@@ 59376ec4
+Creatine
+@@ d4d0f860
+A compound found only in animal foods, such as red meat, chicken and fish.
+@@ de058b19
+Carnitine and choline
+@@ 5f59d818
+Animal foods are superior sources of carnitine and choline.
+@@ ecb800e2
+Questions
+@@ 288aa030
+Common questions about the carnivore diet
+@@ 4364bb79
+Answers to the most common questions
+@@ 536c8881
+List of questions
+@@ 19aaa55f
+<a href="#duda-proteinas"><span>01</span>Plant and animal proteins</a>
+@@ 935d907a
+<a href="#duda-vitamina-c"><span>02</span>Vitamin C</a>
+@@ b61ca973
+<a href="#duda-fibra"><span>03</span>Fiber</a>
+@@ 8281d849
+<a href="#duda-colesterol"><span>04</span>Cholesterol</a>
+@@ 024362eb
+<a href="#duda-grasa"><span>05</span>Fat</a>
+@@ 0414fe0c
+<a href="#duda-keys"><span>06</span>Fat and the heart: the Keys case</a>
+@@ 70fa991b
+<a href="#duda-cancer"><span>07</span>Cancer</a>
+@@ 2a61bd7c
+<a href="#duda-rinones"><span>08</span>Kidneys</a>
+@@ 3795f155
+<a href="#duda-corazon"><span>09</span>Heart</a>
+@@ 3b44fcda
+<a href="#duda-gota"><span>10</span>Gout</a>
+@@ 6888f38b
+Is there a difference between plant and animal proteins?
+@@ 3e5b08db
+Most plant foods <strong>lack at least 1 of the 9 essential amino acids</strong>.
+@@ a7eba54e
+Plant proteins are more likely to <strong>cause allergies and food sensitivities</strong>.
+@@ a0a83bd6
+The <strong>main allergens are plant proteins</strong>: gluten, soy, corn, tree nuts and peanuts.
+@@ c7322355
+Plant proteins are <strong>less bioavailable</strong> than animal proteins.
+@@ 7154f801
+What about vitamin C?
+@@ e8248f67
+There is vitamin C in meat, fish roe, liver, kidney and pancreas.
+@@ 607a3fc6
+Do you drink orange juice to get vitamin C? Glucose and vitamin C are almost identical, and all that sugar will block the absorption of vitamin C.
+@@ 5025ad44
+Eating fewer carbohydrates lowers your need for vitamin C.
+@@ 91a4cc10
+If you eat a little fresh meat every day and don’t overcook it, you will get enough vitamin C to prevent scurvy.
+@@ fa98c5f9
+Is fiber really necessary?
+@@ a6caf733
+Fiber is not essential, since fiber is a carbohydrate.
+@@ fc12fe45
+Fiber is not a nutrient: it is not absorbed and does not nourish.
+@@ 0bfa873c
+There is no evidence that fiber protects against heart disease, colon cancer, irritable bowel syndrome, intestinal polyps, chronic constipation or hemorrhoids.
+@@ 052d881a
+Contrary to popular belief, a high intake of dietary fiber is not necessary for healthy bowel movements.
+@@ 24211acd
+<b>Conclusion:</b> idiopathic constipation and its associated symptoms can be effectively reduced by stopping, or even just reducing, dietary fiber intake.
+@@ 694cae3e
+=
+@@ 75aa9fa7
+=
+@@ 55879269
+=
+@@ ca83c095
+Effect of reducing dietary fiber
+@@ 499a3a45
+Percentage of patients with each symptom, by amount of fiber in the diet
+@@ 43e7d279
+Percentage of patients with symptoms, by diet
+@@ a4843841
+Symptom
+@@ d48e0fbc
+Initial diet
+@@ 9dd5992f
+High fiber
+@@ 1f155e1b
+Reduced fiber
+@@ d0e3082a
+No fiber
+@@ dc6349a9
+Constipation
+@@ 4b226c8d
+Straining
+@@ 5df0871c
+Bloating
+@@ e99addd4
+Anal bleeding
+@@ a1d6c5b2
+Pain
+@@ ecf08264
+Source: Dr. Paul Mason, based on Ho et al. (2012). Values read from the chart in the presentation.
+@@ 44e2095b
+What about cholesterol?
+@@ c8726e92
+Every animal cell needs cholesterol for proper structure and function.
+@@ 0a398d68
+It is essential for producing hormones and neurotransmitters, and crucial for producing vitamin D.
+@@ 514812ef
+It protects against cognitive decline.
+@@ 884f151a
+The cholesterol we eat has little or no influence on the cholesterol levels in our blood.
+@@ 1b0ef1e2
+Isn’t eating fat harmful?
+@@ 0e7ad21b
+Certain essential vitamins, such as A, D, E and K, need fat to be absorbed.
+@@ 30535dbf
+It is the best source of energy for human metabolism.
+@@ 1ef063eb
+It regulates our appetite and helps us feel full.
+@@ 3bbcb8c8
+Saturated fat is associated with longevity, better cognitive function, a stronger immune system and hormone production, and it raises HDL.
+@@ e627a8e0
+There is no significant evidence to conclude that saturated fat is associated with a higher risk of coronary or cardiovascular disease.
+@@ 72c77338
+=
+@@ 3f5ebc04
+=
+@@ 0b49b51e
+=
+@@ c3edb28c
+Meat and heart disease: data manipulation
+@@ 63fe7d81
+Ancel Keys seated, black-and-white photograph
+@@ 9a505d62
+<span class="mark">Ancel Keys, research data fraud</span>
+@@ d2528343
+He manipulated data to conclude that animal fats were causing heart disease.
+@@ 020d54e7
+He believed that eating fat raised blood cholesterol.
+@@ d13aa219
+He published his research showing 6 countries with a high intake of animal fat and their higher associated risk of death from heart disease.
+@@ fbce553b
+He left another 16 countries out of the study: the ones that did not support his hypothesis.
+@@ 02909f55
+22 countries: 6 published and 16 excluded
+@@ 830d5bf0
+<span><i class="countries__key countries__key--in"></i><b>6</b> countries published</span> <span><i class="countries__key countries__key--out"></i><b>16</b> countries excluded</span>
+@@ 64765dda
+Portrait of John Yudkin smiling
+@@ f43620f1
+<span class="mark">John Yudkin, sugar researcher</span>
+@@ dca8444e
+Yudkin removed the stigma from saturated fat
+@@ 16dc3e72
+Yudkin argued that saturated fat is closely tied to our evolution: it is abundant, for example, in breast milk.
+@@ 6300d031
+In his view, we were more likely to fall ill not from the prehistoric substance but from the recent innovation: <strong>sugar.</strong>
+@@ 8c918fab
+But doesn’t meat cause cancer?
+@@ e2f35396
+Obese people have higher rates of cancer.
+@@ c9831d7b
+Any factor that predisposes to obesity is a risk factor for cancer. This means that eating too many carbohydrates increases the risk.
+@@ 09fd94fa
+There is no solid scientific evidence to support the belief that red meat increases the risk of cancer.
+@@ c46bfb53
+Vilhjalmur Stefansson, Weston A. Price and Thomas L. Cleave all agree in their observations:
+@@ 8f014c64
+Cancer was a non-existent disease in societies with a traditional lifestyle
+@@ 3ab506bd
+Meat and kidneys
+@@ 2067123e
+The claim that dietary protein causes kidney disease is not supported by evidence.
+@@ f6af1724
+Diabetes, especially type 2, is the leading cause of chronic kidney disease and end-stage kidney disease worldwide, and hypertension is the second (both are hyperinsulinemic conditions).
+@@ 0f4141a0
+Refined, high-glycemic carbohydrates can endanger the human kidney, not animal protein.
+@@ 7d8e3ddc
+Keep your kidneys healthy by controlling your blood sugar and blood pressure.
+@@ 1498b751
+Logical fallacy
+@@ fb606676
+When the kidneys are severely damaged, they <strong>may</strong> be unable to metabolize larger amounts of protein, but that does not mean protein is the cause of the problem.
+@@ 358af752
+Nobody ends up on dialysis from eating too much steak and eggs.
+@@ 0a2d34b9
+Kidney function tests revealed no evidence of kidney damage.
+@@ a95d5dc5
+=
+@@ 57d1eccb
+=
+@@ 42110820
+=
+@@ d97c9b2c
+A systematic review of 28 randomized controlled trials found no difference in glomerular filtration rate between people on a high-protein diet (more than 1.5 g/kg/day) and people on a normal- or low-protein diet.
+@@ a7b38617
+=
+@@ 5a996455
+=
+@@ 941685dd
+=
+@@ e276aa48
+Meat and the heart
+@@ ec135b78
+We have been eating animal meat for two million years, but heart disease has only been a major problem for us for about 50 years.
+@@ 1601d101
+Refined carbohydrates, such as sugar and flour, and vegetable oils are the most important dietary risk factors for coronary artery disease.
+@@ 32bd316a
+Adding significant amounts of refined carbohydrates is responsible for most “diseases of civilization”: diabetes, obesity and heart disease.
+@@ 363d67b9
+Despite a long, continuous diet of only meat and milk, the men have low serum cholesterol levels and no evidence of atherosclerotic heart disease. This supports the conclusion that dietary fat is not responsible for coronary disease.
+@@ 9d7df216
+=
+@@ 416d9a8b
+G.V. Mann, R.D. Shaffer, R.S. Anderson, H.H. Sandstead and others
+@@ 1fe016c7
+=
+@@ 40cfadbc
+Meat and gout
+@@ cc885f3c
+It is not meat but <strong>chronically high insulin</strong> that causes gout: high insulin raises uric acid, and high uric acid often leads to gout.
+@@ 83b43dae
+Drinking alcohol can contribute to gout, and seems to do so in a dose-dependent way.
+@@ 74d066bc
+A growing body of evidence suggests it may also be linked to consuming large amounts of <strong>fructose</strong>.
+@@ 41e5b34c
+<span class="finale__line"><span class="mark" data-reveal="mark">Nutrition is simple.</span></span> <span class="finale__line"><span class="mark mark--dark" data-reveal="mark">Just look at the cave paintings.</span></span>
+@@ f6f46181
+Author of the content
+@@ a43a7f3b
+=
+@@ 87817d8b
+Integrative nutritionist
+@@ 1374ed1e
+This site is a visual adaptation, translated into English, of her presentation <cite>“Dieta Carnívora”</cite> (“Carnivore Diet”). The texts, arguments, data and images come from that material: the credit for the content belongs to the author.
+@@ 2b8ed891
+=
+@@ 768090dd
+=
+@@ 5d55fe93
+=
+@@ 6f488e5f
+=
+@@ 42d4bb3a
+References cited in the presentation
+@@ 82b035ed
+=
+@@ 439ed412
+=
+@@ 2b87c8ff
+=
+@@ 2216b419
+=
+@@ b7260d84
+=
+@@ 672ceda6
+=
+@@ 6eaa849a
+=
+@@ bcad3a10
+=
+@@ 9d176f76
+Data and images
+@@ 14a27b78
+Nutrient table: Carnivore Aurelius.
+@@ cafa5b02
+Fiber chart: Dr. Paul Mason, based on Ho et al. (2012).
+@@ 133066ac
+Transformations: <a href="https://meatrx.com/library/transformations/" target="_blank" rel="noopener">meatrx.com</a>.
+@@ 3ab310bc
+Portrait of Weston A. Price: Price-Pottenger Nutrition Foundation.
+@@ 64a4fece
+Reference books: Weston A. Price, <cite>Nutrition and Physical Degeneration</cite>; Vilhjalmur Stefansson, <cite>Not by Bread Alone</cite>.
+@@ 991645f0
+All other images come from the original presentation.
+@@ 30934680
+Educational and informational content that reproduces the author’s ideas. It does not replace guidance from a health professional: talk to one before making major changes to your diet.
+@@ 0270fec6
+Based on “Dieta Carnívora” by <a href="#creditos">Jade Soller</a>.
+@@ 267929cf
+Back to top <span aria-hidden="true">↑</span>
